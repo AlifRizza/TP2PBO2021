@@ -1,0 +1,10 @@
+Saya Alif Rizza Z mengerjakan evaluasi TP2 - PBO dalam mata kuliah DPBO untuk keberkahan-Nya, 
+maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Kesulitan : 
+- Design
+- Membuat fitur ganti panel
+- Memasukkan Database
+
+Hal Baru Yang Dipelajari :
+- Fetch dan Insert data menggunakan database
